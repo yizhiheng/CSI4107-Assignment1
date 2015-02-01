@@ -1,5 +1,4 @@
 # CSI4107-Assignment1
-===================
 
 A basic information retreival program based for a collection of Twitter messages documents. The collection is a subset of the data used in the TREC 2011 Microblog Retrieval task.
 
